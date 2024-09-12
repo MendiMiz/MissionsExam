@@ -1,0 +1,92 @@
+[
+    {
+        "location": "Damascus",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 3.66
+    },
+    {
+        "location": "Beirut",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 2.56
+    },
+    {
+        "location": "Amman",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 1.63
+    },
+    {
+        "location": "Cairo",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 5.11
+    },
+    {
+        "location": "Baghdad",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 6.25
+    },
+    {
+        "location": "Tehran",
+        "clouds": "Clear",
+        "clouds_status": 4,
+        "wind_speed": 0.73
+    },
+    {
+        "location": "Riyadh",
+        "clouds": "Clear",
+        "clouds_status": 8,
+        "wind_speed": 1.04
+    },
+    {
+        "location": "Tripoli",
+        "clouds": "Rain",
+        "clouds_status": 51,
+        "wind_speed": 6.41
+    },
+    {
+        "location": "Ankara",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 1.03
+    },
+    {
+        "location": "Khartoum",
+        "clouds": "Clouds",
+        "clouds_status": 53,
+        "wind_speed": 3.06
+    },
+    {
+        "location": "Gaza",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 5.46
+    },
+    {
+        "location": "Sanaa",
+        "clouds": "Clouds",
+        "clouds_status": 98,
+        "wind_speed": 0.73
+    },
+    {
+        "location": "Manama",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 4.42
+    },
+    {
+        "location": "Kuwait City",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 7.83
+    },
+    {
+        "location": "Doha",
+        "clouds": "Clear",
+        "clouds_status": 0,
+        "wind_speed": 3.42
+    }
+]
